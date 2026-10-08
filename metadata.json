@@ -1,0 +1,6 @@
+{
+  "name": "JalRakshak",
+  "description": "AI-Powered Smart Irrigation Assistant for Indian farmers optimizing water, electricity, and crop yield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
